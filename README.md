@@ -89,7 +89,7 @@ WARNING을 부여받은 객체는 알고리즘이 예의주시 하고 있다는 
 <br/>
 
 ### **3. False Alarm을 예방하고자 탐지하고자 하는 구간(Zone)을 설정해줍니다.**  
-![Untitled (2)](https://github.com/CodeofO/School_Zone_V2/assets/99871109/651c1497-3600-4b23-be57-0f7cf16aaacc)
+![Untitled (4)](https://github.com/CodeofO/School_Zone_V2/assets/99871109/96e0a2e3-59a4-4057-9daa-ee44a47f82e8)
 
     
     # 두 영상에 모두 WARNING 신호를 줄 때
