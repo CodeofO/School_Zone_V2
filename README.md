@@ -15,9 +15,10 @@
 <br/>
 
 ### **1. 움직이는 객체와 정지해있는 객체를 분리합니다.**   
-![image](https://github.com/CodeofO/School_Zone_V2/assets/99871109/bce880f8-0e7a-45ca-9d4f-32eaccdfea74)
+![Untitled (5)](https://github.com/CodeofO/School_Zone_V2/assets/99871109/0df7cbbc-93f6-49c8-b985-b6ee9df98304)
 
-![image](https://github.com/CodeofO/2023_06_V2_School_Zone_Collision_Accident_Prevention_Notifier/assets/99871109/66b20d8d-6d3f-4242-90df-f930fe936ac0)
+![Untitled (1)](https://github.com/CodeofO/School_Zone_V2/assets/99871109/9e615866-8aa4-4eb1-8ea4-5eba94f2e533)
+
 
 Tracking 된 객체가 frame마다 얼마나 이동하는지를 계산하여 움직이는 객체, 움직이지 않는 객체를 구분하였습니다. 
 
@@ -88,7 +89,8 @@ WARNING을 부여받은 객체는 알고리즘이 예의주시 하고 있다는 
 <br/>
 
 ### **3. False Alarm을 예방하고자 탐지하고자 하는 구간(Zone)을 설정해줍니다.**  
-![image](https://github.com/CodeofO/2023_06_V2_School_Zone_Collision_Accident_Prevention_Notifier/assets/99871109/1bf4009b-4d53-43eb-9d3b-ade207f0263b)
+![Untitled (2)](https://github.com/CodeofO/School_Zone_V2/assets/99871109/651c1497-3600-4b23-be57-0f7cf16aaacc)
+
     
     # 두 영상에 모두 WARNING 신호를 줄 때
     if (warning_text1_source != '') & (warning_text2_source != '') & ((count_in_zone_1 > 0) & (count_in_zone_2 > 0)): 
@@ -105,13 +107,6 @@ WARNING을 부여받은 객체는 알고리즘이 예의주시 하고 있다는 
 <br/>
         
 ✅ **조감도**  
-![image](https://github.com/CodeofO/2023_06_V2_School_Zone_Collision_Accident_Prevention_Notifier/assets/99871109/52e4acbe-c624-4221-891b-863aadad77c9)
-
-<br/>
-<br/>
-<br/>
-  
-✅ **최종 결과물** 
-<img width="1361" alt="image" src="https://github.com/CodeofO/2023_06_V2_School_Zone_Collision_Accident_Prevention_Notifier/assets/99871109/f9890d6c-16ad-4cf9-ba4c-f0cf58ee8412">
+![Untitled (3)](https://github.com/CodeofO/School_Zone_V2/assets/99871109/9daf9e2e-5b3c-4c7f-80f2-bd6c24fcc708)
 
   
