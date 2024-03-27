@@ -9,7 +9,6 @@
 |요약|Object Detection 알고리즘인 YOLOv8을 base로 사용했습니다.<br>객체를 탐지 후 움직임을 탐지하는 알고리즘과 알림을 주는데 필요한 조건들을 추가해서<br>충돌사고를 예방할 수 있는 알리미를 개발했습니다.|
 |역할|리더/ 아이디어 타당성 검토/ Stop-Moving 알고리즘 제안/ 아이디어 구현(개발)|
 
-스택 적기 !!! 파이토치 욜로 등등
 
 **시연영상**  👉 [https://youtu.be/BCXjsv-tun4](https://www.youtube.com/watch?v=Gpa8G2YvxPw)
 
